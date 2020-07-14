@@ -1,0 +1,8 @@
+[package]
+authors = ["damienfamed75 <thedoubledimensions@gmail.com>"]
+edition = "2018"
+name = "rpsls"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.7.3"
